@@ -66,8 +66,7 @@ class Slugify implements SlugifyInterface
             'polish',
             'german',
             'russian',
-            'romanian',
-            'chinese'
+            'romanian'
         ],
     ];
 
